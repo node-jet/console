@@ -3,8 +3,10 @@
 .github
 .mocharc
 .mocharc.json
+.jest.config.js
 .nyc_output/
 .nycrc/
+.renovate.json
 CHANGELOG.md
 CONTRIBUTING.md
 SECURITY.md
