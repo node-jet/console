@@ -2,7 +2,7 @@
   "name": "node-jet-console",
   "version": "0.0.0",
   "description": "console package for node jet",
-  "bin": "dist/index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "prepublish": "tsc",
   "scripts": {
