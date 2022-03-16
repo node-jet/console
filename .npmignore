@@ -7,6 +7,7 @@
 .nyc_output/
 .nycrc/
 .renovate.json
+.nodejet.json
 CHANGELOG.md
 CONTRIBUTING.md
 SECURITY.md
@@ -18,3 +19,4 @@ lib/
 src/
 test/
 tsconfig.json
+jet.js

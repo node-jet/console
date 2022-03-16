@@ -17,7 +17,7 @@
     },
     "include": [
         "src/**/*"
-    ],
+, "jet"    ],
     "exclude": [
         "node_modules",
         "**/*.test.ts",
