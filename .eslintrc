@@ -7,7 +7,7 @@
     "extends": [
         "airbnb-base",
         "plugin:sonarjs/recommended",
-        "plugin:mocha/recommended",
+        "plugin:jest/recommended",
         "plugin:jsdoc/recommended"
     ],
     "ignorePatterns": [

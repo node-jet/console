@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+/** 
+ * This file is used to test the node jet command from the starter project
+ */
+const { JetCli, JetConsoleKernel } = require('./dist/index');
+
+JetCli(__dirname, [JetConsoleKernel]);
