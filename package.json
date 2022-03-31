@@ -1,7 +1,7 @@
 {
-  "name": "node-jet-console",
+  "name": "jetngin-console",
   "version": "0.0.0",
-  "description": "console package for node jet",
+  "description": "console package for jetngin",
   "exports": "./dist/index.js",
   "types": "dist/index.d.ts",
   "engines": {
@@ -22,17 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-jet/create-node-jet.git"
+    "url": "git+https://github.com/jetngin/create-jetngin.git"
   },
   "keywords": [
     "console",
     "node",
     "jet"
   ],
-  "author": "Daniel Samson <contact@nodejet.org>",
+  "author": "Daniel Samson <contact@jetngin.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-jet/console/issues"
+    "url": "https://github.com/jetngin/console/issues"
   },
   "homepage": "https://nodejet.org",
   "devDependencies": {

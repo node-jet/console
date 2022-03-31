@@ -1,12 +1,12 @@
 # console
-Console package for node-jet
+Console package for jetngin
 
 ## Example
 
-To create a node jet project, use the following command:
+To create a jetngint project, use the following command:
 
 ```bash
-npx create-node-jet myapp
+npx create-jetngin myapp
 ```
 
 ## Install autocompletion
