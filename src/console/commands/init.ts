@@ -7,12 +7,12 @@ export const describe = 'sets up node jet project';
 
 export const builder = {};
 
-export const handler = function Init() {
+export const handler = function init() {
   // do something with argv.
   const projectDirectory = process.env.NODE_JET__PROJECT_DIRECTORY as string;
-  writeFileSync(join(projectDirectory, '.nodejet.json'), JSON.stringify({
+  writeFileSync(join(projectDirectory, 'jet.json'), JSON.stringify({
     language: 'javascript',
   }, null, 2));
 
-  console.log('created .nodejet.json');
+  console.log('created jet.json');
 };
