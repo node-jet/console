@@ -1,6 +1,6 @@
 {
   "name": "jetngin-console",
-  "version": "0.0.16",
+  "version": "0.0.3",
   "description": "console package for jetngin",
   "exports": "./dist/index.js",
   "types": "dist/index.d.ts",
