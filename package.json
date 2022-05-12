@@ -40,7 +40,7 @@
     "@types/jest": "27.5.1",
     "@types/mocha": "9.1.1",
     "@types/mock-fs": "4.13.1",
-    "@types/node": "16.11.34",
+    "@types/node": "16.11.35",
     "@types/sinon": "10.0.11",
     "@typescript-eslint/eslint-plugin": "5.23.0",
     "@typescript-eslint/parser": "5.23.0",
